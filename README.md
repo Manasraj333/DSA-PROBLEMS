@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0704-binary-search) |
@@ -57,9 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
