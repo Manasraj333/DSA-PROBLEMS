@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0704-binary-search) |
 ## Binary Search
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
