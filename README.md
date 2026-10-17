@@ -15,9 +15,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0078-subsets) |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0047-permutations-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
