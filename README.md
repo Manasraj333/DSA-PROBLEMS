@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -32,9 +33,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0704-binary-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
