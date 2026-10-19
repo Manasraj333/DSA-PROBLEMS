@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0078-subsets) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manasraj333/DSA-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
